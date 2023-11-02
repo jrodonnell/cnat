@@ -12,3 +12,6 @@
 *.out
 .DS_Store
 /cnat-client-go/cnat-controller
+
+# ignore binaries
+**/bin
